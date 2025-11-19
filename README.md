@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=60A5FA&background=00000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Thiago!;Data%20Scientist+from+Brazil;Data+Science+%7C+ML+%7C+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=60A5FA&background=00000000&center=true&vCenter=true&width=480&lines=Hi,+%20I'm+Thiago!;Data%20Scientist+from+Brazil;Data+Science+%7C+ML+%7C+AI" alt="Typing SVG" />
   
   <p align="center">
     <a href="https://github.com/Akaxyy">
