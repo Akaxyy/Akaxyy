@@ -22,7 +22,7 @@
 <table align="center" width="100%" style="border: none;">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛠 Tech Stack</h3>
+      <h3 align="center">Tech Stack</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -46,7 +46,7 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📊 GitHub Stats</h3>
+      <h3 align="center">GitHub Stats</h3>
       <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Akaxyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" />
         <br/>
