@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A91B33&background=00000000&center=true&vCenter=true&width=480&lines=Hi,+%20I'm+Thiago!;Full+Stack+Developer;Next.js+%7C+Bun+%7C+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A91B33&background=00000000&center=true&vCenter=true&width=480&lines=Hi,+%20I'm+Thiago!;Full+Stack+Developer;Next.js+%7C+Go+%7C+Cloud" alt="Typing SVG" />
   
   <p align="center">
     <a href="https://github.com/Akaxyy">
